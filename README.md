@@ -1,5 +1,5 @@
 # symmetrical-octo-chainsaw
-GIS / Spatial Data Project
+Tropical Storm Visualization & Analysis
 
 ## Installation
 
@@ -8,7 +8,7 @@ GIS / Spatial Data Project
 3. Extract `data.zip` into your project directory. You should end up with a hierarchy matching `/project/data/archive`
 4. Open `project.qgs` using QGIS
 
-## Verified Environment
+## Latest Verified Environment
     QGIS 3.2.0-Bonn
     Compiled against Qt 5.9.3, GDAL/OGR 2.2.4, GEOS 3.6.2-CAPI-1.10.2
     macOS High Sierra 10.13.5 
