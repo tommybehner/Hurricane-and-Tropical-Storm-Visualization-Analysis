@@ -1,5 +1,19 @@
-# symmetrical-octo-chainsaw
-Tropical Storm Visualization & Analysis
+# Hurricane-and-Tropical-Storm-Visualization-Analysis
+
+A project for QGIS for hurricanes and tropical storms affecting insurance policy holders in the United States.  
+
+This objective is achieved by using several sets of various data to create a forcast map.  
+
+# Data used:
+    - Live and historic storm data to create visualized storm path and 'cone of uncertainty.'
+        - https://www.nhc.noaa.gov/data/
+        - https://www.data.gov/disasters/hurricanes/
+        
+    - United States Census data for population size/density, ZIP code boundaries.
+        - https://www2.census.gov/geo/tiger/TIGER2017/ZCTA5/tl_2017_us_zcta510.zip
+        
+    - Sample health insurance policy holder information. 
+        - https://data.healthcare.gov/
 
 ## Installation
 
